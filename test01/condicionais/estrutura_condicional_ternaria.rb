@@ -1,0 +1,1 @@
+(sexo == 'M' ? 'masculino' : 'feminino')
